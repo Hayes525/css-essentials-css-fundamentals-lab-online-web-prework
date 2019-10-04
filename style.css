@@ -3,3 +3,23 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 { 
+  text-align: center;
+}
+nav {
+  text-align: center;
+  display: block;
+  padding: 10px;
+  background-color: gray;
+}
+#figure {
+  text-align: center;
+}
+#figcaption {
+  text-align: center;
+  font-size: 10pt;
+}
+#featured-property {
+  text-align: center;
+  width: 800px;
+}
